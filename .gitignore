@@ -1,6 +1,6 @@
 **/.coverage
 **/.pytest_cache
-**/.breakpoints
 **/__pycache__
 
 venv
+.breakpoints

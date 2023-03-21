@@ -6,9 +6,11 @@
 * What unit-test is not?
 
 
-# How to add unit tests?
+# Let's write some unit tests
 
 ## Quick tour of `Calculator`
+* Integer calculations only
+* What happens when we enter floats?
 
 ## Built-in `unittest` module (PyUnit)
 * https://docs.python.org/3/library/unittest.html
@@ -35,6 +37,9 @@
 * Shared code to setup tests 
 * Commonly used in setup, teardown, initializing test objects
 
+### exercise
+* Add more tests?
+
 ## mocking / patching
 * To replace components with defined behaviors
 * Reduce test dependencies
@@ -47,9 +52,16 @@
 * `coverage run --source=calculator unittest_calculator.py && coverage report -m`
 * `coverage run --source=calculator test_calculator.py && coverage report -m`
 
+## exercise
+* Cheese out coverage?
+
 # using the debugger in replit
 * Add breakpoints
-* Add code in `main.py`
+* Add code in `main.py` and run it
+
+## exercise
+* reader internal values
+* recursion stacks
 
 # References
 * https://docs.python.org/3/library/unittest.html
