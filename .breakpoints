@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "ddc49d71-dfaf-4850-a106-26f1b52a1fe7",
+        "line": 12,
+        "version": 101,
+        "index": 224
+      }
+    ],
+    "reader.py": [
+      {
+        "id": "2b2ec16e-8bce-4f78-b442-fec24a513aff",
+        "line": 23,
+        "version": 148,
+        "index": 377
+      }
+    ]
+  }
+}
