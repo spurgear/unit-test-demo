@@ -173,7 +173,7 @@ python-versions = ">=3.7"
 
 [[package]]
 name = "exceptiongroup"
-version = "1.1.0"
+version = "1.1.1"
 description = "Backport of PEP 654 (exception groups)"
 category = "main"
 optional = false
@@ -406,7 +406,7 @@ docs = ["Sphinx[docs] (>=4.3.2,<6.0.0)", "sphinx-autodoc-typehints[docs] (==1.12
 
 [[package]]
 name = "pytest"
-version = "7.2.1"
+version = "7.2.2"
 description = "pytest: simple powerful testing with Python"
 category = "main"
 optional = false
@@ -630,7 +630,7 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.10.0,<3.11"
-content-hash = "823ff8b79e47ad29990dc5eb2ce2e008c27689c2f90e56f5c24e2d039a49aafc"
+content-hash = "6337c35a3fa78a47987fab624b0ed7def452c8b0a833c5470384f984318b391b"
 
 [metadata.files]
 aiohttp = []
