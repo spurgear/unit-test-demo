@@ -3,6 +3,8 @@
 * What is unit-testing?
 * Why do unit-testing?
 * When to run unit-tests?
+* What unit-test is not?
+
 
 # How to add unit tests?
 

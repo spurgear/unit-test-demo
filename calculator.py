@@ -2,6 +2,7 @@ from reader import Reader
 
 
 class Calculator:
+  """A simple integer calculator."""
 
   def __init__(self):
     self.reader = Reader()

@@ -20,6 +20,11 @@ def test_sub(cal):
   assert 3 == cal.sub(5, 2)
 
 
+def test_div(cal):
+  with pytest.raises(ZeroDivisionError):
+    cal.div(1, 0)
+
+
 # fixture in pytest
 @pytest.fixture
 def cal():
