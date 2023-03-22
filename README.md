@@ -63,6 +63,12 @@
 * reader internal values
 * recursion stacks
 
+# Take aways
+* Unit-testing is part of the development process we commonly do (formally or not).
+* `PyUnit` or `PyTest` are easy to integrate with existing codebase or new projects.
+* Focusing on unit under test with fixtures or mocks to simplify setups.
+* Debugger can simplify troubleshooting greatly than adding print statements.
+
 # References
 * https://docs.python.org/3/library/unittest.html
 * https://docs.pytest.org/en/7.2.x/
