@@ -11,14 +11,14 @@
 ## Quick tour of `Calculator`
 * Integer calculations only
 * What happens when we enter floats?
-* Execute `calculator.py`
+* Execute [`calculator.py`](calculator.py)
 
 ## Built-in `unittest` module (PyUnit)
 * https://docs.python.org/3/library/unittest.html
 * No extra dependencies.
 * Standard convention.
 * Rather verbose.
-* Example: `unittest_calculator.py`
+* Example: [`unittest_calculator.py`](unittest_calculator.py)
 
 ```
 > python unittest_calculator.py
@@ -29,7 +29,7 @@
   * `pip install pytest`
 * Great plugin supports.
 * Simpler syntax.
-* Example: `test_calculator.py`
+* Example: [`test_calculator.py`](test_calculator.py)
 
 ```
 > python test_calculator.py
@@ -47,7 +47,7 @@
 * To replace components with defined behaviors
 * Reduce test dependencies
 * https://docs.python.org/3/library/unittest.mock.html
-* Example: `mock_demo.py`
+* Example: [`mock_demo.py`](mock_demo.py)
 
 ## Measuring how good are tests
 * Happy path vs exception handling
